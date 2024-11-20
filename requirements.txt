@@ -1,0 +1,6 @@
+youtube_dl
+librosa
+transformers
+torch
+soundfile
+ffmpeg
